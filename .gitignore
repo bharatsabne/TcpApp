@@ -1,0 +1,13 @@
+# Qt build artifacts
+*.pro.user
+*.pro.user.* 
+*.pro.user.cache
+*.pro.user.backup
+*.qmake.stash
+
+# Build folders
+build-*/
+
+# OS files
+.DS_Store
+Thumbs.db
